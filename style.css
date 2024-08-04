@@ -1,5 +1,5 @@
 body {
-    background-image: url(q1-adjusted2.png);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(q1-adjusted2.png);
     height: 100%;
     overflow: hidden;
 }
